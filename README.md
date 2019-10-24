@@ -1,2 +1,0 @@
-# consoleFor
-Created with CodeSandbox
